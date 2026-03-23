@@ -2,8 +2,6 @@
 
 Quickly perform actions in Copilot Studio and enhance the user-interface
 
-This extension currently includes two features: textarea autosize and Copilot Studio quick navigation.
-
 ## Current Features
 
 🔤 Text Area Autosize: multi-line text inputs resize themselves to fit instructios  
